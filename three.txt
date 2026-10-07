@@ -1,0 +1,3 @@
+this file about how to merge the branch.
+fisrt create branch and then merge into the main 
+for merging the branch in the main enter into main branch
